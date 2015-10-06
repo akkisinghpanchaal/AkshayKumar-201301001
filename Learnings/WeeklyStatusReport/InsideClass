@@ -35,3 +35,4 @@ Week 7:
     Architecture is a description of how you divide your presentable into defferent systems/classes or sub-classes.
 4) Deployment diagram takes in the detailed description of each client, be it phone, laptop, just in case.
 5) Patterns are mostly about best practices.
+6) MVC pattern. Its advantages and trade-offs.
