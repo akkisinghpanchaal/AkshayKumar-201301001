@@ -18,10 +18,20 @@ At last, I would say that I did not mention much of the technical terms discusse
 
 Week 4:
 1) I learnt about the agile approach. I liked the way things are done in this format.
-2) Learned about product backlog. I found it similar to use cases but at a finer level.
+2) Learned about product backlog. I found it similar to use cases but at a deeper level.
 3) Learnt about estimation methodologies, functional points and algorithmic measures.
 
 Week 5:
 1) Learnt how imortant is the presentation of estimation.
 2) Learnt how essential is to be honest with the deadlines. Got this idea from estimation guidelines.
 3) Through a nice activiy I finally realised how important it is for software designing that requirements of a user are conveyed in proper and precise manner. Though I am a business analyst. :p (NOT EXACLTY :P)
+
+Week 7:
+1) Learnt some of do's and dont's associated to designing of a user interface.
+2) Through the activity(in which Sridhar sir asked to design a UI for our project), I got an idea of what all should be the content which is visible to the user.
+3) Two types of Software architectures:
+    - Logical
+    - Implementation 
+    Architecture is a description of how you divide your presentable into defferent systems/classes or sub-classes.
+4) Deployment diagram takes in the detailed description of each client, be it phone, laptop, just in case.
+5) Patterns are mostly about best practices.
